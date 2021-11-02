@@ -14,12 +14,12 @@ public class clumps {
 
         String genome = scan.next();
 
-        // System.out.println(genome);
+        
         int k = scan.nextInt();
         int L = scan.nextInt();
         int t = scan.nextInt();
         System.out.println(genome + " " + k + " " + L + " " + t);
-        // Set<String> FrequentPatterns = new Set <String>;
+        
         String text;
         Set<String> set = new HashSet<String>();
         double power = Math.pow(4, k);
@@ -32,9 +32,9 @@ public class clumps {
         for (int i = 0; i < genome.length() - L; i++) {
             text = genome.substring(i, i + L);
             FrequencyArray = ComputingFrequencies(text, k);
-            // Printing frequencies:
+           
             for (int index = 0; index < pow; index++) {
-                // System.out.print("-"+FrequencyArray[index]);
+                
                 if (FrequencyArray[index] >= t) {
                     Clump[index] = 1;
                 }
@@ -57,14 +57,9 @@ public class clumps {
 
     }
 
-    // ans = ClumpFinding(genome, k, L, t);
-
-    /*
-     * static String[] ClumpFinding(String genome, int k, int L, int t) { String[]
-     * ret; ret[0] = return ret; }
-     */
+ 
     public static int[] ComputingFrequencies(String text, int k) {
-        // System.out.println("In freq");
+        
 
         String pattern;
         int j;
@@ -76,7 +71,7 @@ public class clumps {
         }
         for (int i = 0; i < (text.length()) - k; i++) {
 
-            // System.out.println(i + " " + k+ " "+ ((text.length() - 1) - k));
+            
             pattern = text.substring(i, i + k);
 
             j = PatternToNumber(pattern);
@@ -113,12 +108,12 @@ public class clumps {
         } else {
             ret = 3;
         }
-        // System.out.println("Symbol to Number: " + symbol + " " + ret);
+        
         return ret;
     }
 
     static String NumberToPattern(int index, int k) {
-        // Base case when the number is just one number (0,1,2,3)
+       
         if (k == 1) {
             return NumberToSymbol(index);
         }
