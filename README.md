@@ -7,8 +7,8 @@ Problems are taken from [Bioinformatics Textbook track](http://rosalind.info/pro
 - [x] ***ba1b***: Find the most Frequent Words in a String. <br>
   [Problem](http://rosalind.info/problems/ba1b/), [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1b.py) [COMPLETED]
   
-- [ ] ***ba1c***: Find the Reverse Complement of a String. <br>
-  [Problem](http://rosalind.info/problems/ba1c/), [Code]
+- [x] ***ba1c***: Find the Reverse Complement of a String. <br>
+  [Problem](http://rosalind.info/problems/ba1c/), [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1c.py) [COMPLETED]
   
 - [ ] ***ba1d***:	Find All Occurrences of a Pattern in a String. <br>
   [Problem](http://rosalind.info/problems/ba1c/), [Code]
