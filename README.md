@@ -1,6 +1,6 @@
 # Rosalind Challenges
 ## Bioinformatics algorithms written in python
-
+Problems are taken from [Bioinformatics Textbook track](http://rosalind.info/problems/locations/) on Rosalind
 - [x] ***ba1e***: Find Patterns Forming Clumps in a String. <br>
   [Problem](http://rosalind.info/problems/ba1e/), [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1e.java)
  
