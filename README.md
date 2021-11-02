@@ -5,4 +5,4 @@
   [Problem](http://rosalind.info/problems/ba1e/), [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1e.java)
  
 - [x] ***ba2g***: Implement GibbsSampler. <br>
-  [Problem](http://rosalind.info/problems/ba2g/), [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1e.java)
+  [Problem](http://rosalind.info/problems/ba2g/), [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba2g.py)
