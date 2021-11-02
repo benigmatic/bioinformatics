@@ -11,8 +11,8 @@ Problems are taken from [Bioinformatics Textbook track](http://rosalind.info/pro
 - [x] Problem [***ba1c***](http://rosalind.info/problems/ba1c/): *Find the Reverse Complement of a String.* <br>
   [Problem](http://rosalind.info/problems/ba1c/)  [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1c.py) [COMPLETED]
   
-- [ ] Problem [***ba1d***](http://rosalind.info/problems/ba1d/):	*Find All Occurrences of a Pattern in a String.* <br>
-  [Code]
+- [x] Problem [***ba1d***](http://rosalind.info/problems/ba1d/):	*Find All Occurrences of a Pattern in a String.* <br>
+  [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1d.py) [COMPLETED]
   
 - [x] Problem [***ba1e***](http://rosalind.info/problems/ba1e/) *Find Patterns Forming Clumps in a String.* <br>
   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1e.java) [COMPLETED]
