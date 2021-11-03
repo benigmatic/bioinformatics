@@ -20,8 +20,8 @@ Problems are taken from [Bioinformatics Textbook track](http://rosalind.info/pro
 - [ ] Problem [***ba1f***](http://rosalind.info/problems/ba1f/)	*Find a Position in a genome Minimizing the Skew.* <br>
    [Code]  	
   
- - [ ] Problem [***ba1g***](http://rosalind.info/problems/ba1g/) *Compute the Hamming Distance Between Two Strings.* <br>
-   [Code]
+ - [x] Problem [***ba1g***](http://rosalind.info/problems/ba1g/) *Compute the Hamming Distance Between Two Strings.* <br>
+   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1g.py) [COMPLETED]
  - [ ] Problem [***ba1h***](http://rosalind.info/problems/ba1h/) *Find All Approximate Occurrences of a Pattern in a String.* <br>
    [Code]
   - [ ] Problem [***ba1i***](http://rosalind.info/problems/ba1i/)	*Find the Most Frequent Words with Mismatches in a String.* <br>
