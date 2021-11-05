@@ -17,8 +17,8 @@ Problems are taken from [Bioinformatics Textbook track](http://rosalind.info/pro
 - [x] Problem [***ba1e***](http://rosalind.info/problems/ba1e/) *Find Patterns Forming Clumps in a String.* <br>
   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1e.java) [COMPLETED]
   
-- [ ] Problem [***ba1f***](http://rosalind.info/problems/ba1f/)	*Find a Position in a genome Minimizing the Skew.* <br>
-   [Code]  	
+- [x] Problem [***ba1f***](http://rosalind.info/problems/ba1f/)	*Find a Position in a genome Minimizing the Skew.* <br>
+   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1f.py) 	
   
  - [x] Problem [***ba1g***](http://rosalind.info/problems/ba1g/) *Compute the Hamming Distance Between Two Strings.* <br>
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1g.py) [COMPLETED]
