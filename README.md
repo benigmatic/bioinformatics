@@ -37,5 +37,5 @@ Problems are taken from [Bioinformatics Textbook track](http://rosalind.info/pro
   - [ ] Problem [***ba1n***](http://rosalind.info/problems/ba1n/)	*Generate the d-Neighborhood of a String.* <br>
    [Code]
  
-- [x] Problem [***ba2g***](http://rosalind.info/problems/ba2g/) Implement GibbsSampler.* <br>
+- [x] Problem [***ba2g***](http://rosalind.info/problems/ba2g/) *Implement GibbsSampler.* <br>
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba2g.py) [COMPLETED]
