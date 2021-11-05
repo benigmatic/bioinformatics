@@ -18,7 +18,7 @@ Problems are taken from [Bioinformatics Textbook track](http://rosalind.info/pro
   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1e.java) [COMPLETED]
   
 - [x] Problem [***ba1f***](http://rosalind.info/problems/ba1f/)	*Find a Position in a genome Minimizing the Skew.* <br>
-   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1f.py) 	
+   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1f.py) [COMPLETED]	
   
  - [x] Problem [***ba1g***](http://rosalind.info/problems/ba1g/) *Compute the Hamming Distance Between Two Strings.* <br>
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1g.py) [COMPLETED]
