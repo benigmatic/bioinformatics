@@ -32,8 +32,8 @@ Problems are taken from [Bioinformatics Textbook track](http://rosalind.info/pro
    [Code]
   - [x] Problem [***ba1l***](http://rosalind.info/problems/ba1l/)	*Implement PatternToNumber.* <br>
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1l.py) [COMPLETED]
-  - [ ] Problem [***ba1m***](http://rosalind.info/problems/ba1m/)	*Implement NumberToPattern.* <br>
-   [Code]
+  - [x] Problem [***ba1m***](http://rosalind.info/problems/ba1m/)	*Implement NumberToPattern.* <br>
+  [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1m.py) [COMPLETED]
   - [ ] Problem [***ba1n***](http://rosalind.info/problems/ba1n/)	*Generate the d-Neighborhood of a String.* <br>
    [Code]
  
