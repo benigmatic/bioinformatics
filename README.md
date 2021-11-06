@@ -26,8 +26,8 @@ Problems are taken from [Bioinformatics Textbook track](http://rosalind.info/pro
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1h.py) [COMPLETED]
   - [x] Problem [***ba1i***](http://rosalind.info/problems/ba1i/)	*Find the Most Frequent Words with Mismatches in a String.* <br>
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1i.py) [COMPLETED]
-  - [ ] Problem [***ba1j***](http://rosalind.info/problems/ba1j/) *Find Frequent Words with Mismatches and Reverse Complements.* <br>
-  [Code]
+  - [x] Problem [***ba1j***](http://rosalind.info/problems/ba1j/) *Find Frequent Words with Mismatches and Reverse Complements.* <br>
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1j.py) [COMPLETED]
   - [x] Problem [***ba1k***](http://rosalind.info/problems/ba1k/)		*Generate the Frequency Array of a String.* <br>
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1k.py) [COMPLETED]
   - [x] Problem [***ba1l***](http://rosalind.info/problems/ba1l/)	*Implement PatternToNumber.* <br>
