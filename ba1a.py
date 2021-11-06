@@ -1,5 +1,4 @@
 #Compute the Number of Times a Pattern Appears in a Text
-
 def main():
     # reads input from terminal
     text = input("Enter DNA String:")
