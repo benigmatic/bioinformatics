@@ -8,7 +8,7 @@
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1b.py) 
   
 - [x] Problem [***ba1c***](http://rosalind.info/problems/ba1c/): *Find the Reverse Complement of a String.*
-  [Problem](http://rosalind.info/problems/ba1c/)  [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1c.py) 
+   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1c.py) 
   
 - [x] Problem [***ba1d***](http://rosalind.info/problems/ba1d/):	*Find All Occurrences of a Pattern in a String.* 
   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1d.py) 
@@ -37,8 +37,8 @@
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1n.py)
   - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Probability of a Hidden Path Problem.* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba10a.py)   
-   - [ ] Problem [***ba2a***](http://rosalind.info/problems/ba2a/)	*ImplementMotif Enumeration* 
-    
+   - [x] Problem [***ba2a***](http://rosalind.info/problems/ba2a/)	*ImplementMotif Enumeration* 
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba2a.py)
   - [x] Problem [***ba2g***](http://rosalind.info/problems/ba2g/)	*Implement GibbsSampler* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba2g.py)
   - [x] Problem [***ba3h***](http://rosalind.info/problems/ba3h/)	*Reconstruct a String from its k-mer Composition* 
