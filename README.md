@@ -37,6 +37,8 @@
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1n.py)
   - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Generate the d-Neighborhood of a String.* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba10a.py)   
+   - [ ] Problem [***ba2a***](http://rosalind.info/problems/ba2a/)	*ImplementMotif Enumeration* 
+    
   - [x] Problem [***ba2g***](http://rosalind.info/problems/ba2g/)	*Implement GibbsSampler* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba2g.py)
   - [x] Problem [***ba3h***](http://rosalind.info/problems/ba3h/)	*Reconstruct a String from its k-mer Composition* 
