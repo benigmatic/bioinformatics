@@ -35,7 +35,7 @@
   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1m.py) 
   - [x] Problem [***ba1n***](http://rosalind.info/problems/ba1n/)	*Generate the d-Neighborhood of a String.* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1n.py)
-  - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Generate the d-Neighborhood of a String.* 
+  - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Probability of a Hidden Path Problem.* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba10a.py)   
    - [ ] Problem [***ba2a***](http://rosalind.info/problems/ba2a/)	*ImplementMotif Enumeration* 
     
