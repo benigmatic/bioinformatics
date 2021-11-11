@@ -26,7 +26,7 @@
   - [x] Problem [***ba1i***](http://rosalind.info/problems/ba1i/)	*Find the Most Frequent Words with Mismatches in a String.* 
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba1i.py) 
   - [x] Problem [***ba1j***](http://rosalind.info/problems/ba1j/) *Find Frequent Words with Mismatches and Reverse Complements.* 
-    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1j.py) 
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba1j.py) 
   - [x] Problem [***ba1k***](http://rosalind.info/problems/ba1k/)		*Generate the Frequency Array of a String.* 
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba1k.py)
   - [x] Problem [***ba1l***](http://rosalind.info/problems/ba1l/)	*Implement PatternToNumber.*
