@@ -39,6 +39,8 @@
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba10a.py)   
    - [x] Problem [***ba2a***](http://rosalind.info/problems/ba2a/)	*ImplementMotif Enumeration* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba2a.py)
+   - [x] Problem [***ba2b***](http://rosalind.info/problems/ba2b/)	*Find a Median String* 
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba2b.py)
   - [x] Problem [***ba2g***](http://rosalind.info/problems/ba2g/)	*Implement GibbsSampler* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba2g.py)
   - [x] Problem [***ba3h***](http://rosalind.info/problems/ba3h/)	*Reconstruct a String from its k-mer Composition* 
