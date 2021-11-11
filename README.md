@@ -2,7 +2,7 @@
 ## Bioinformatics algorithms written in python
 ###  [Bioinformatics Textbook track](http://rosalind.info/problems/locations/) 
 - [x] Problem [***ba1a***](http://rosalind.info/problems/ba1a/): *Compute the Number of Times a Pattern Appears in a Text.*
-   [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1a.py) 
+   [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba1a.py) 
   
 - [x] Problem [***ba1b***](http://rosalind.info/problems/ba1b/): *Find the most Frequent Words in a String.* 
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/ba1b.py) 
