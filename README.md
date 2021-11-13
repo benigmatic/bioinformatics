@@ -43,6 +43,8 @@
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba2b.py)
    - [x] Problem [***ba2c***](http://rosalind.info/problems/ba2c/)	*Find a Profile-most Probable k-mer in a String* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba2c.py)
+   - [x] Problem [***ba2d***](http://rosalind.info/problems/ba2d/)	*Greedy Motif Search* 
+  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba2d.py)
   - [x] Problem [***ba2g***](http://rosalind.info/problems/ba2g/)	*Implement GibbsSampler* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba2g.py)
   - [x] Problem [***ba3h***](http://rosalind.info/problems/ba3h/)	*Reconstruct a String from its k-mer Composition* 
