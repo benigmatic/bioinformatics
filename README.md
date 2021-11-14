@@ -54,6 +54,6 @@
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba3h.py)
  - [x] Problem [***ba5f***](http://rosalind.info/problems/ba5f/)	*Find a Highest-Scoring Local Alignment of Two Strings* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5f.py)
-      - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Probability of a Hidden Path Problem.* 
+  - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Probability of a Hidden Path Problem.* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba10a.py)  
  
