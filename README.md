@@ -35,8 +35,7 @@
   [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba1m.py) 
   - [x] Problem [***ba1n***](http://rosalind.info/problems/ba1n/)	*Generate the d-Neighborhood of a String.* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba1n.py)
-  - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Probability of a Hidden Path Problem.* 
-    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba10a.py)   
+ 
    - [x] Problem [***ba2a***](http://rosalind.info/problems/ba2a/)	*ImplementMotif Enumeration* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba2a.py)
    - [x] Problem [***ba2b***](http://rosalind.info/problems/ba2b/)	*Find a Median String* 
@@ -55,5 +54,6 @@
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba3h.py)
  - [x] Problem [***ba5f***](http://rosalind.info/problems/ba5f/)	*Find a Highest-Scoring Local Alignment of Two Strings* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5f.py)
-    
+      - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Probability of a Hidden Path Problem.* 
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba10a.py)  
  
