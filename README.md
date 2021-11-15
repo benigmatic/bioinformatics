@@ -54,7 +54,9 @@
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba3a.py)
   - [x] Problem [***ba3b***](http://rosalind.info/problems/ba3b/)	*Reconstruct a String From its Genome Path* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba3b.py)
-  - [x] Problem [***ba3h***](http://rosalind.info/problems/ba3h/)	*Reconstruct a String from its k-mer Composition* 
+   - [x] Problem [***ba3c***](http://rosalind.info/problems/ba3c/)	*Reconstruct a String From its Genome Path* 
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba3c.py)
+  - [x] Problem [***ba3h***](http://rosalind.info/problems/ba3h/)	*Construct the Overlap Graph of a Collection of k-mers* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba3h.py)
   - [x] Problem [***ba5f***](http://rosalind.info/problems/ba5f/)	*Find a Highest-Scoring Local Alignment of Two Strings* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5f.py)
