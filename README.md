@@ -1,5 +1,6 @@
 # Rosalind Challenges
 ## Bioinformatics algorithms written in python
+My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
 ###  [Bioinformatics Textbook track](http://rosalind.info/problems/locations/) 
 - [x] Problem [***ba1a***](http://rosalind.info/problems/ba1a/): *Compute the Number of Times a Pattern Appears in a Text.*
    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba1a.py) 
