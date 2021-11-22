@@ -67,6 +67,8 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba3i.py)
   - [x] Problem [***ba4a***](http://rosalind.info/problems/ba4a/)	*Translate an RNA String into an Amino Acid String* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba4a.py)
+  - [x] Problem [***ba4b***](http://rosalind.info/problems/ba4b/)	*Find Substrings of a Genome Encoding a Given Amino Acid String* 
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba4b.py)
   - [x] Problem [***ba5f***](http://rosalind.info/problems/ba5f/)	*Find a Highest-Scoring Local Alignment of Two Strings* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5f.py)
   - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Probability of a Hidden Path Problem.* 
