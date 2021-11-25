@@ -79,6 +79,8 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba4h.py)
   - [x] Problem [***ba4j***](http://rosalind.info/problems/ba4j/)	*Generate the Theoretical Spectrum of a Linear Peptide* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba4j.py)
+  - [x] Problem [***ba4k***](http://rosalind.info/problems/ba4k/)	*Compute the Score of a Linear Peptide* 
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba4k.py)
   - [x] Problem [***ba5f***](http://rosalind.info/problems/ba5f/)	*Find a Highest-Scoring Local Alignment of Two Strings* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5f.py)
   - [x] Problem [***ba10a***](http://rosalind.info/problems/ba10a/)	*Probability of a Hidden Path Problem.* 
