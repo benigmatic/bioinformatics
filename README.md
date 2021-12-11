@@ -88,9 +88,9 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
   - [x] Problem [***ba4l***](http://rosalind.info/problems/ba4l/)	*Trim a Peptide Leaderboard* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba4l.py)
   - [x] Problem [***ba5a***](http://rosalind.info/problems/ba5a/)	*Find the Minimum Number of Coins Needed to Make Change* 
-    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5a.py
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5a.py)
   - [x] Problem [***ba5b***](http://rosalind.info/problems/ba5b/)	*Length of a Longest Path in the Manhattan Tourist Problem* 
-    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5b.py
+    [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5b.py)
   - [x] Problem [***ba5f***](http://rosalind.info/problems/ba5f/)	*Find a Highest-Scoring Local Alignment of Two Strings* 
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba5f.py)
   - [x] Problem [***ba9b***](http://rosalind.info/problems/ba9b/)	*Implement TrieMatching* 
