@@ -99,3 +99,7 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
     [Code](https://github.com/benigmatic/bioinformatics/blob/main/Textbook%20Path/ba10a.py)  
  
 </details>
+###  [Bioinformatics Armory](https://rosalind.info/problems/tree-view/?location=bioinformatics-armory) 
+<details>
+  <summary>Summary</summary>
+</details>
