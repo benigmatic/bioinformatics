@@ -105,5 +105,5 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
   <summary>Summary</summary>
   
   - [x] Problem [***1***](https://rosalind.info/problems/ini/)	*Introduction to the Bioinformatics Armory* 
- [Code]()  
+ [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/ini.py)  
 </details>
