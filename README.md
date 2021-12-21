@@ -110,4 +110,6 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/gbk.py) 
 - [x] Problem [***6***](https://rosalind.info/problems/tsfq/)	*FASTQ format introduction* 
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/tsfq.py) 
+- [x] Problem [***7***](https://rosalind.info/problems/phre/)	*FASTQ format introduction* 
+ [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/phre.py) 
 </details>
