@@ -110,6 +110,12 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/gbk.py) 
 - [x] Problem [***6***](https://rosalind.info/problems/tsfq/)	*FASTQ format introduction* 
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/tsfq.py) 
-- [x] Problem [***7***](https://rosalind.info/problems/phre/)	*FASTQ format introduction* 
+- [x] Problem [***7***](https://rosalind.info/problems/phre/)	*Read Quality Distribution* 
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/phre.py) 
+- [x] Problem [***8***](https://rosalind.info/problems/bphr/)	*Base Quality Distribution* 
+ [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/bphr.py)
+- [x] Problem [***9***](https://rosalind.info/problems/bfil/)	*Base Filtration by Quality* 
+ [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/bfil.py)
+- [x] Problem [***11***](https://rosalind.info/problems/ptra/)	*Protein Translation* 
+ [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/ptra.py)
 </details>
