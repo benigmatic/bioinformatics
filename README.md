@@ -118,4 +118,6 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/bfil.py)
 - [x] Problem [***11***](https://rosalind.info/problems/ptra/)	*Protein Translation* 
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/ptra.py)
+- [x] Problem [***12***](https://rosalind.info/problems/rvco/)	*Complementing a Strand of DNA* 
+ [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/rvco.py)
 </details>
