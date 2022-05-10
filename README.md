@@ -100,7 +100,7 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
  
 </details>
 
-### [Bioinformatics Armory](https://rosalind.info/problems/tree-view/?location=bioinformatics-armory) 
+### [Bioinformatics Armory](https://rosalind.info/problems/tree-view/?location=bioinformatics-armory) [COMPLETED]
 <details>
   <summary>Summary</summary>
   
