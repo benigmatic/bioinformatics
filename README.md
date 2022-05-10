@@ -107,7 +107,9 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
   - [x] Problem [***1***](https://rosalind.info/problems/ini/)	*Introduction to the Bioinformatics Armory* 
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/ini.py)  
  - [x] Problem [***2***](https://rosalind.info/problems/gbk/)	*GenBank Introduction* 
- [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/gbk.py) 
+ [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/gbk.py)
+- [x] Problem [***4***](https://rosalind.info/problems/subo/)	*Suboptimal Local Alignment* 
+ [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/subo.py) 
 - [x] Problem [***6***](https://rosalind.info/problems/tsfq/)	*FASTQ format introduction* 
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/tsfq.py) 
 - [x] Problem [***7***](https://rosalind.info/problems/phre/)	*Read Quality Distribution* 
