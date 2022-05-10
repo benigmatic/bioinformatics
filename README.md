@@ -120,4 +120,6 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/ptra.py)
 - [x] Problem [***12***](https://rosalind.info/problems/rvco/)	*Complementing a Strand of DNA* 
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/rvco.py)
+- [x] Problem [***13***](https://rosalind.info/problems/orfo/)	*Finding Genes with ORFs* 
+ [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/orfo.py)
 </details>
