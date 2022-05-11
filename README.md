@@ -103,8 +103,9 @@ My profile: [benigmatic](http://rosalind.info/users/benigmatic/)
 ### [Bioinformatics Armory](https://rosalind.info/problems/tree-view/?location=bioinformatics-armory) [COMPLETED]
 <details>
   <summary>Summary</summary>
-  // Problems not listed were solved with the software provided
-  - [x] Problem [***1***](https://rosalind.info/problems/ini/)	*Introduction to the Bioinformatics Armory* 
+ Problems not listed were completed with software provided
+  
+ - [x] Problem [***1***](https://rosalind.info/problems/ini/)	*Introduction to the Bioinformatics Armory* 
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/ini.py)  
  - [x] Problem [***2***](https://rosalind.info/problems/gbk/)	*GenBank Introduction* 
  [Code](https://github.com/benigmatic/bioinformatics/blob/main/Bioinformatics%20Armory/gbk.py)
